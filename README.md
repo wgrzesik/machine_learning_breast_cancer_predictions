@@ -4,7 +4,9 @@ The aim of the project was to develop a model for the classification of mammogra
 
 ### Data
 The data are from a dataset containing mammography images:
+<br>
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data
+<br>
 After discarding outlier observations, 569 examples were obtained, which were divided into a learning set (455 examples) and a test set (114 examples).
 
 ### Models
